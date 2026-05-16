@@ -1,0 +1,1 @@
+select sum(amount) as total_revenue from payments ; 
