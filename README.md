@@ -64,4 +64,4 @@ This project demonstrates practical SQL skills including database design, data m
 ---
 
 ## Author
-Sheikh Ayaan
+Sheikh Abdul Ayaan
